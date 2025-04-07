@@ -1,6 +1,6 @@
 import { forwardRef, useEffect, useState } from "react";
-import Input from "../Elements/input";
 import Label from "../Elements/label";
+import { Input } from "./input";
 
 const InputForm = forwardRef((props, ref) => {
     const [showPassword, setShowPassword] = useState(false);

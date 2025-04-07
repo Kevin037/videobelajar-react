@@ -1,5 +1,5 @@
 import { forwardRef, useState } from "react";
-import Input from "../Elements/input";
+import {Input} from "../Elements/input";
 import Label from "../Elements/label";
 
 const countries = [
