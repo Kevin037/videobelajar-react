@@ -4,7 +4,7 @@ import { getItem, getTabs } from "../../data";
 import CardItems from "../Fragments/CardItems";
 import { BannerContent } from "../Fragments/Content";
 import { Input, InputButton } from "../Elements/input";
-import { ButtonTabs, ButtonYellow } from "../Elements/button";
+import { ButtonYellow } from "../Elements/button";
 
 const HomePage = () => {
 
