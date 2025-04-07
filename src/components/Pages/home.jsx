@@ -24,7 +24,7 @@ useEffect(() => {
 
  return (
     <Authlayout title="Home" navType="home">
-        <div className="mx-auto max-w-6xl px-2 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
             <section className="banner-hero banner-space">
                 <div className="banner-content">
                     <BannerContent 
